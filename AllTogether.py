@@ -5,7 +5,7 @@ def main():
     list = create_list(10)
     #using both a for and while loop to remove the even numbers.
     #originally used a for loop but saw a request of using a while loop in the question so just kept both.
-    print (remove_even_numbers(list))
+    #print (remove_even_numbers(list))
     print (remove_even_numbers_2(list))
  
 #creates the list of random numbers 
